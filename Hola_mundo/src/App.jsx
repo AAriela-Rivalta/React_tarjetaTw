@@ -27,7 +27,12 @@ const users = [
         userName: 'tefarogero',
         name: 'Estefania Rogero',
         isFollowin: false,
-    }
+    },
+    {
+        userName: 'AAriela-Rivalta',
+        name: 'Ariela Rivalta',
+        isFollowin: false,
+    },
 ]
 
 export function App () {     
